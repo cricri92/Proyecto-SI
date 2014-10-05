@@ -1,0 +1,78 @@
+#usuario_p{
+	margin: 0px;
+	padding: 15px;
+	border: 1px solid #7D9DFF;
+	-webkit-box-shadow: 0 0 8px #7D9DFF;
+	background-color: #D6E0FF;
+	color: #3366FF;
+	text-align: center;
+}
+
+#usuario_p h1
+{
+	color:#3366FF;				
+}
+
+#usuario_p div
+{
+	display: block;
+	margin: 25px;
+}
+
+#bar_us
+{
+	display: inline-block;
+}
+
+#logout
+{
+	text-align: right;
+}
+
+#nombre_usuario 
+{
+	text-align: left;
+}
+
+#contenido_pusuario
+{
+	width: 100%;
+	padding: 10px;
+}
+
+#campo_info 
+{
+	width: 75%; 
+	height: auto;
+
+}
+
+#campo_info fieldset
+{
+	background-color: #6699FF;
+	text-align: left; 
+	color: #D6E0FF;
+}
+
+#campo_info h2
+{
+	color: #003366;
+}
+
+#tabla_solic th
+{
+	border: 1px solid #7D9DFF;
+	background-color: #7D9DFF;
+	color: #D6E0FF;
+}
+
+#tabla_solic tr td
+{
+	background-color: #EBFFFF;
+	overflow: auto;
+}
+
+#tabla_solic table
+{
+	width: 75%;
+}

@@ -1,0 +1,25 @@
+#iniciopu
+{
+	margin: 0px;
+	padding: 15px;
+	border: 1px solid #7D9DFF;
+	-webkit-box-shadow: 0 0 8px #7D9DFF;
+	background-color: #D6E0FF;
+	color: #3366FF;
+	text-align: center;
+}
+
+#iniciopu h1
+{
+	color:#3366FF;				
+}
+
+#lista
+{
+	list-style-type: none;
+}
+
+#acta_2
+{
+	border-right: 1px solid #9AA1B8;
+}

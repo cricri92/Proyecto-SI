@@ -2,7 +2,8 @@
 	<div id="bar_us">
 		<div id="logout">
 			<strong><a href="iniciopu">Cerrar sesión</a></strong>
-		</div><div id="nombre_usuario">
+		</div>
+		<div id="nombre_usuario">
 			<strong><h3>Bienvenido/a, <a href="">usuario_prueba</a></h3></strong>
 		</div>		
 	</div>
