@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<base href="http://<?php echo $_SERVER['SERVER_NAME']; ?>" />
+	<base href="<?php echo base_url(); ?>" />
 	<meta charset="utf-8">
 	<title> <?php echo $titulo; ?> </title>	
 	<link rel="stylesheet" type="text/css" href="assets/css/front/front.css">
